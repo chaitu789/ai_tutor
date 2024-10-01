@@ -28,7 +28,7 @@ AI-Tutor employs a combination of advanced AI technologies to enhance the learni
   - *Mitigating Information Hallucination*: RAG effectively addresses the challenge of AI-generated misinformation by validating responses against trusted external sources.
   - *Personalized Learning Experience*: The use of diverse data sources enables AI-Tutor to tailor its responses to specific educational contexts and individual learner needs.
 
-![Method](method.png)
+![Method](method1.png)
 
 
 
