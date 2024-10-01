@@ -5,7 +5,7 @@
 </div>
 
 ## Overview
-AI-Tutor, an educational web app, integrates the latest OpenAI's Assistant API and Retrieval-Augmented Generation (RAG) to offer personalized tutoring across various academic courses. It adapts to specific course materials, ensuring a dynamic, responsive, and tailored learning experience.
+AI-Tutor, an educational web app, integrates the HuggingFace API and Retrieval-Augmented Generation (RAG) to offer personalized tutoring across various academic courses. It adapts to specific course materials, ensuring a dynamic, responsive, and tailored learning experience.
 
 ## Core Features
 - **Versatile Application**: Adaptable to any course with the requirement of uploading course-specific materials.
